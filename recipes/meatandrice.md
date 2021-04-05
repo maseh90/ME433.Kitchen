@@ -2,6 +2,8 @@
 layout: default
 ---
 # Meat and Rice
+### by Mason Hartweger
+
 This is my incredibly basic recipe for meat and rice. I am a terrible cook, but these ingredients are usually laying around somewhere (aside from the meat). This is easy and quick to make, and it is great when you are in a time-crunch/hungry.
 
 ## Ingredients You Will Need (1 Serving)
