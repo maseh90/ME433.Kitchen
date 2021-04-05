@@ -35,7 +35,7 @@ This is my incredibly basic recipe for meat and rice. I am a terrible cook, but 
 -   Take pot with onions, meat, and seasoning off heat
 -   Take rice off heat (when evidently cooked) and drain water
 -   Add butter and a small amount of salt/pepper to the rice
--   Plate and serve.
+-   Put meat on top of rice, and serve.
 
 * * *
 
